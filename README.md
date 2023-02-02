@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @prateekkish
-- 👀 I’m interested in ruby and ReactJS projects
-- 🌱 I’m currently learning performance optimization and dabbling into ruby metaprogramming!
+- 👀 I can help your team with ruby and React.
+- 🌱 Remote since 2019!
 - 📫 Reachable at prateekkish@gmail.com 
 - 🐣 DMs open https://twitter.com/prateekkish
 
