@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @prateekkish
-- 👀 I can help your team with ruby and React.
+- 👀 I can help your team with ruby, React and Angular.
 - 🌱 Remote since 2019!
 - 📫 Reachable at prateekkish@gmail.com 
 - 🐣 DMs open https://twitter.com/prateekkish
